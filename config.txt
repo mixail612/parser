@@ -1,0 +1,6 @@
+токен бота: 5522035331:AAEgdpuFeH4TvobyHNr6vW7YaJdfRQKO90w
+id пользователя: 1498775269
+максимальное количество сообщений за 1 раз по 1 ссылке: 5
+задержка между проверкой ссылки на общее количество ссылок (в секундах): 150
+задержка между открытием ссылок (в секундах): 15
+хромдрайвер: C:\Users\mishu\PycharmProjects\pythonProject7\venv\Lib\site-packages\chromedriver_py\chromedriver_win64.exe
